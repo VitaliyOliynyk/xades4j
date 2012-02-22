@@ -26,26 +26,26 @@
 			</song>
 		</tracks>
 	</album>
-<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-e1f2dcbf-d7ef-439f-89a9-9c8152033bc9">
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-36734bc9-cf8b-48bb-beb3-5d0015f77c57">
 <ds:SignedInfo>
 <ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
 <ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
-<ds:Reference Id="xmldsig-e1f2dcbf-d7ef-439f-89a9-9c8152033bc9-ref0" URI="#root">
+<ds:Reference Id="xmldsig-36734bc9-cf8b-48bb-beb3-5d0015f77c57-ref0" URI="#root">
 <ds:Transforms>
 <ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
 </ds:Transforms>
 <ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
 <ds:DigestValue>8iwpa9uzAyXdGbiLhQ9HvpOqYed7WOG/3n0Uwp/4fEI=</ds:DigestValue>
 </ds:Reference>
-<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-e1f2dcbf-d7ef-439f-89a9-9c8152033bc9-signedprops">
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-36734bc9-cf8b-48bb-beb3-5d0015f77c57-signedprops">
 <ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
-<ds:DigestValue>2GcARB6Me2XNGABJ/9OUb7fXiUOKZ5GPBRM8aJBnT/w=</ds:DigestValue>
+<ds:DigestValue>enUvwPuckIJ0kTb87+tg1pSt7AvlRVxYIZ2lWYKW2vM=</ds:DigestValue>
 </ds:Reference>
 </ds:SignedInfo>
-<ds:SignatureValue Id="xmldsig-e1f2dcbf-d7ef-439f-89a9-9c8152033bc9-sigvalue">
-hDVJd6BWmFXrh+cx/8PEEdQ8PxfX97mOxxtH6ZY8y/50cRAY9DN2n/duKyAJDOpOb5thPyoNbw6S
-CBaELw0CPB3cw0+DYsS6XBSnAY/Prj58vHobEBlisYrPm02gh7zPA5vN3ulapGUzJo8FwjpBfQjK
-wgsHxJF9wx7bBAQHvMg=
+<ds:SignatureValue Id="xmldsig-36734bc9-cf8b-48bb-beb3-5d0015f77c57-sigvalue">
+h5PtwJ2zKIgN1eCt4hXKigqsvA68LH9fxEVYJKIhxPEKGWtryPsCWGiq4NMkAHO/JDhJmWkEAqUV
+3+1tqf9Xkq0s4Grnfw5Y+XmUUHaxqp8olwDfwigH9Hm9Ei+UswYJ8h5Kemxk5pYAtc0QnZaHQ3gV
+8NPwY8HwM8OcI3T93xk=
 </ds:SignatureValue>
 <ds:KeyInfo>
 <ds:X509Data>
@@ -64,23 +64,23 @@ Ahu4PzJ6hggAlWWMy245JwIYuV0s1Oi39GVTxVNOBIX//AONZlGWO4S2Psb1mqdZ99b/MugsaA==
 </ds:X509Certificate>
 </ds:X509Data>
 </ds:KeyInfo>
-<ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-e1f2dcbf-d7ef-439f-89a9-9c8152033bc9"><xades:SignedProperties Id="xmldsig-e1f2dcbf-d7ef-439f-89a9-9c8152033bc9-signedprops"><xades:SignedSignatureProperties><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>4btVb5gQ5cdcNhGpvDSWQZabPQrR9jf1x8e3YF9Ajss=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=Itermediate,OU=CC,O=ISEL,C=PT</ds:X509IssuerName><ds:X509SerialNumber>-119284162484605703133798696662099777223</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>vm5QpbblsWV7fCYXotPhNTeCt4nk8cLFuF36L5RJ4Ok=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=TestCA,OU=CC,O=ISEL,C=PT</ds:X509IssuerName><ds:X509SerialNumber>-46248926895392336918291885380930606289</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>AUaN+IdhKQqxIVmEOrFwq+Dn22ebTkXJqD3BoOP/x8E=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=TestCA,OU=CC,O=ISEL,C=PT</ds:X509IssuerName><ds:X509SerialNumber>-99704378678639105802976522062798066869</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate><xades:SignerRole><xades:ClaimedRoles><xades:ClaimedRole>CounterSignature maniac</xades:ClaimedRole></xades:ClaimedRoles></xades:SignerRole></xades:SignedSignatureProperties></xades:SignedProperties><xades:UnsignedProperties><xades:UnsignedSignatureProperties><xades:CounterSignature><ds:Signature Id="xmldsig-c5af0f4f-cac6-4f81-818b-be1ea7b07d1e" xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-36734bc9-cf8b-48bb-beb3-5d0015f77c57"><xades:SignedProperties Id="xmldsig-36734bc9-cf8b-48bb-beb3-5d0015f77c57-signedprops"><xades:SignedSignatureProperties><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>4btVb5gQ5cdcNhGpvDSWQZabPQrR9jf1x8e3YF9Ajss=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=Itermediate,OU=CC,O=ISEL,C=PT</ds:X509IssuerName><ds:X509SerialNumber>-119284162484605703133798696662099777223</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>vm5QpbblsWV7fCYXotPhNTeCt4nk8cLFuF36L5RJ4Ok=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=TestCA,OU=CC,O=ISEL,C=PT</ds:X509IssuerName><ds:X509SerialNumber>-46248926895392336918291885380930606289</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>AUaN+IdhKQqxIVmEOrFwq+Dn22ebTkXJqD3BoOP/x8E=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=TestCA,OU=CC,O=ISEL,C=PT</ds:X509IssuerName><ds:X509SerialNumber>-99704378678639105802976522062798066869</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate><xades:SignerRole><xades:ClaimedRoles><xades:ClaimedRole>CounterSignature maniac</xades:ClaimedRole></xades:ClaimedRoles></xades:SignerRole></xades:SignedSignatureProperties></xades:SignedProperties><xades:UnsignedProperties><xades:UnsignedSignatureProperties><xades:CounterSignature><ds:Signature Id="xmldsig-158d8487-3c21-4a41-a81e-f79bb8ab7aba" xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
 <ds:SignedInfo>
 <ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
 <ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
-<ds:Reference Id="xmldsig-c5af0f4f-cac6-4f81-818b-be1ea7b07d1e-ref0" URI="#xmldsig-e1f2dcbf-d7ef-439f-89a9-9c8152033bc9-sigvalue">
+<ds:Reference Id="xmldsig-158d8487-3c21-4a41-a81e-f79bb8ab7aba-ref0" URI="#xmldsig-36734bc9-cf8b-48bb-beb3-5d0015f77c57-sigvalue">
 <ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
-<ds:DigestValue>Bf58tWEH4uz3aSXLvhkmkFtxhnrC27aJGD1yspK4vLM=</ds:DigestValue>
+<ds:DigestValue>eMVqacbvDIVgkMDhdQUhNqkGE6eCqkzjwU8WksrmfCQ=</ds:DigestValue>
 </ds:Reference>
-<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-c5af0f4f-cac6-4f81-818b-be1ea7b07d1e-signedprops">
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-158d8487-3c21-4a41-a81e-f79bb8ab7aba-signedprops">
 <ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
-<ds:DigestValue>WEwxg4sDPnmv5+1I6wEYeIHxiqwYUit6G5u10oTTACE=</ds:DigestValue>
+<ds:DigestValue>2s1h+J3tn+G7vD7ho5p7AJBMdmkzzWURmR7Bk7Ptuck=</ds:DigestValue>
 </ds:Reference>
 </ds:SignedInfo>
-<ds:SignatureValue Id="xmldsig-c5af0f4f-cac6-4f81-818b-be1ea7b07d1e-sigvalue">
-S2PvjDHsSjojBxRG/RWKHUlcl/2Kv+Y/cwTZrGCuhfEzr0cdjUwHPDSftcWPMX2qaQ958bRob/3s
-lFW50D4brDrh2KX/J7VmkLx8nY01jQM+vlvzzTNTmgJpAoDo8Ddwn0Ju6D7eC8p0VCEokUYT0Awo
-jo1rK7xU6NnKDVXWtxU=
+<ds:SignatureValue Id="xmldsig-158d8487-3c21-4a41-a81e-f79bb8ab7aba-sigvalue">
+on1m3Rlie9n7Icld1bwNzAfYmWdY/mVcTV8kBa/QxPJDbQiKjsaaSxrL5Db5CTdlO44ivWu3abEP
+JO9IC0RKUU1o0bhC4TweeP2Nk2JU1X9saNyG/AWxyUEBZ2+UmE+Z2WGBpP4yN2ttkmxUfoxZSmUL
+AlOPSi/JhPN9gq+9VQo=
 </ds:SignatureValue>
 <ds:KeyInfo>
 <ds:X509Data>
@@ -99,6 +99,6 @@ Ahu4PzJ6hggAlWWMy245JwIYuV0s1Oi39GVTxVNOBIX//AONZlGWO4S2Psb1mqdZ99b/MugsaA==
 </ds:X509Certificate>
 </ds:X509Data>
 </ds:KeyInfo>
-<ds:Object><xades:QualifyingProperties Target="#xmldsig-c5af0f4f-cac6-4f81-818b-be1ea7b07d1e" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#"><xades:SignedProperties Id="xmldsig-c5af0f4f-cac6-4f81-818b-be1ea7b07d1e-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2012-01-19T13:34:34.783+01:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>4btVb5gQ5cdcNhGpvDSWQZabPQrR9jf1x8e3YF9Ajss=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=Itermediate,OU=CC,O=ISEL,C=PT</ds:X509IssuerName><ds:X509SerialNumber>-119284162484605703133798696662099777223</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>vm5QpbblsWV7fCYXotPhNTeCt4nk8cLFuF36L5RJ4Ok=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=TestCA,OU=CC,O=ISEL,C=PT</ds:X509IssuerName><ds:X509SerialNumber>-46248926895392336918291885380930606289</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>AUaN+IdhKQqxIVmEOrFwq+Dn22ebTkXJqD3BoOP/x8E=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=TestCA,OU=CC,O=ISEL,C=PT</ds:X509IssuerName><ds:X509SerialNumber>-99704378678639105802976522062798066869</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object>
+<ds:Object><xades:QualifyingProperties Target="#xmldsig-158d8487-3c21-4a41-a81e-f79bb8ab7aba" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#"><xades:SignedProperties Id="xmldsig-158d8487-3c21-4a41-a81e-f79bb8ab7aba-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2012-02-22T23:52:21.751+01:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>4btVb5gQ5cdcNhGpvDSWQZabPQrR9jf1x8e3YF9Ajss=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=Itermediate,OU=CC,O=ISEL,C=PT</ds:X509IssuerName><ds:X509SerialNumber>-119284162484605703133798696662099777223</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>vm5QpbblsWV7fCYXotPhNTeCt4nk8cLFuF36L5RJ4Ok=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=TestCA,OU=CC,O=ISEL,C=PT</ds:X509IssuerName><ds:X509SerialNumber>-46248926895392336918291885380930606289</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>AUaN+IdhKQqxIVmEOrFwq+Dn22ebTkXJqD3BoOP/x8E=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=TestCA,OU=CC,O=ISEL,C=PT</ds:X509IssuerName><ds:X509SerialNumber>-99704378678639105802976522062798066869</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object>
 </ds:Signature></xades:CounterSignature></xades:UnsignedSignatureProperties></xades:UnsignedProperties></xades:QualifyingProperties></ds:Object>
 </ds:Signature></collection>
