@@ -9,7 +9,7 @@
 
     <groupId>eu.vitaliy</groupId>
     <artifactId>xades4j</artifactId>
-    <version>1.2.0-SNAPSHOT</version>
+    <version>1.2.0</version>
     <name>xades4j</name>
     <url>https://github.com/VitaliyOliynyk/xades4j</url>
     <description>The XAdES4j library is an high-level, configurable and extensible Java implementation of XML Advanced
